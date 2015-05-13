@@ -41,8 +41,9 @@ you can look over those too.
 
 #### Skins! Everyone Loves Those
 Post-release we want to offer a few new skins. Nothing pay-to-win but lots of fun. Here's some ideas:
-1 Ants
-2 Elves, Dwarves, that stuff
-4 Modern Military
-5 Recognizable (Almost) Ponies, that's right, it's a thing now.
-6 Space Marines
+
+* Ants
+* Elves, Dwarves, that stuff
+* Modern Military
+* Recognizable (Almost) Ponies, that's right, it's a thing now.
+* Space Marines
