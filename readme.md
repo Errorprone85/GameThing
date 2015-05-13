@@ -16,32 +16,33 @@ waves of enemies and that of the AI by producing those waves for other participa
 A concept often left to to time or a given starting pool, our game will introduce resource management an economic growth
 to the strategy of tower defense. You will be forced to make choices about whether you build for combat or resource
 production and react to how your opponent(s) build as well.
+Unlike those methods in this game you must build resource generators in order to accumulate wealth. That means the
+choice of how much to receive each wave is yours! Despite that extra depth, with only resource to manage the game
+retains the simplicity of the tower defense genre.
 
-### Brain Storming
+### Room to Grow
+#### Nearly Endless Villages
+Our system allows for continued expansion of the villages you build. You decide how to expand your land through our 
+system of build radii and shape your own domain. Not only does this allow you build the way you want, it gives you the 
+ultimate freedom to shape the paths of incoming minions. We show the paths of incoming minions and how your buildings
+will effect them.
 
-## The type of game we would like to build is a tower defense co-op/multiplayer that is geared highly towards strategey builds.
+#### Deep Progression Tree
+Each building and unit has a unique and valuable progression tree and can be upgraded per your plan. The choices you 
+make will effect your interactions with all of your enemies, granting you advantages based on how you react to threats. 
+Don't like how it played out? Sell your buildings for a partial refunds and anew.
+If it doesn't work out, the next match brings a whole new start.
 
-## The type of mechanics we are looking to intergrate are as listed.
-1. Building and Upgrading role specific towers 1
-2. Building and Upgraging role specific barracks 2
-3. Fog of War 3
-4. Unlimited boarders 4
-5. Visible roads for pathing creeps 5
-  * Path altered by tower placement
-6. Match by Match playing 6
-7. Resource pool to start with resources per tick 7
-8. Home node is multipurpose 8
-  * resource
-  * creeps
-  * defense
-  * HP on base
-  * Can upgrade also
-9. Sell towers at reduced cost 9
+### A Halfway Decent Looking Tower Defense
+#### Graphics Look Alright
+We all love tower defense, but the tactical fun is too often taking a back seat to the graphical aspects. Not here, our
+game looks halfway decent! Not the best but not that bad either. Not only that, but as you advance on your enemy bases 
+you can look over those too.
 
-## What skins we would like to start with.
-1. Ants 1
-2. Medieval 2
-3. Fantasy 3
-4. Modern Technology 4
-5. My Little Pony 5
-6. Space or Sci-Fi 6
+#### Skins! Everyone Loves Those
+Post-release we want to offer a few new skins. Nothing pay-to-win but lots of fun. Here's some ideas:
+1. Ants
+2. Elves, Dwarves, that stuff
+4. Modern Military
+5. Recognizable (Almost) Ponies, that's right, it's a thing now.
+6. Space Marines
