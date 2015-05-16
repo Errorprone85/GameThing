@@ -47,3 +47,8 @@ Post-release we want to offer a few new skins. Nothing pay-to-win but lots of fu
 * Modern Military
 * Recognizable (Almost) Ponies, that's right, it's a thing now.
 * Space Marines
+
+### Achievements!
+#### For all the people who can't leave things undone
+
+Achievements help players gain a sense of accomplishment and provide some bragging rights.
