@@ -18,7 +18,6 @@ public class MenuSetup : MonoBehaviour
 		GUI.Box (new Rect (Screen.width - 100, Screen.height - 200, 100, 200), "", container);
 
 		// creates GUI buttons
-		// SlideMenu method takes the name of the button as an argument and creates a contextual menu based on that
 		if (GUI.Button (new Rect(Screen.width - 100, Screen.height - 80, 100, 30), "?"))
 		{
 			print("?");
